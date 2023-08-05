@@ -13,8 +13,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "ejs": "^3.1.9",
     "gh-pages": "^5.0.0",
+    "glob": "^10.3.3",
     "sass": "^1.63.6",
-    "vite": "^4.4.4"
+    "vite": "^4.4.4",
+    "vite-plugin-ejs": "^1.6.4",
+    "vite-plugin-live-reload": "^3.0.2"
   }
 }
